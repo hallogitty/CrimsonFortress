@@ -1,0 +1,16 @@
+void main()
+{
+
+printf("banana panorama\n");
+
+}
+
+void iterative()
+{
+  printf("coconuts good stuff");
+}
+
+void recursive()
+{
+
+}

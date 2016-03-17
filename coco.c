@@ -7,3 +7,8 @@ void recursive()
 {
   printf("fruity loops, fruity recursion\n");
 }
+
+void iterative()
+{
+  printf("coconuts and bananas is what iterations like");
+}
